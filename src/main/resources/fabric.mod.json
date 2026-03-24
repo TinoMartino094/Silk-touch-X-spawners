@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "spawner-pickaxe",
+	"version": "${version}",
+	"name": "Spawner pickaxe",
+	"description": "The ultimate survival utility! Harvest and relocate spawners using a specialized Golden Pickaxe with Silk Touch X, preserving all mob data for perfect farm setups.",
+	"authors": [
+		"TinoMartino"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/TinoMartino/spawner-pickaxe"
+	},
+	"license": "MIT",
+	"icon": "assets/spawner-pickaxe/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.tino.pick.SpawnerPickaxe"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~26.1",
+		"java": ">=25",
+		"fabric-api": "*"
+	},
+	"custom": {
+		"fabric-api:client-optional": true
+	}
+}
