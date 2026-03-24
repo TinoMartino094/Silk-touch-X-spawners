@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Silk Touch X Spawners** is the ultimate utility for technical survivalists and farm builders! Ever found a double spawner setup just a few blocks away from being perfect? Or a Blaze spawner in a dangerous spot? With this mod, you can finally move them—without any data loss. No more 'empty' spawners or losing that precious mob data. Simply craft the legendary Spawner Pickaxe and take your mob farms wherever you go!
+**Silk Touch X Spawners** 
 
 ## Current Features
 
@@ -10,7 +10,7 @@
 - **NBT Preservation**: Dropped spawners retain their mob type (e.g., Zombie, Skeleton, Blaze).
 - **Server-Side Only**: Can be installed on the server without requiring clients to have the mod.
 - **Vanilla Compatible**: Vanilla clients can connect and use the features if the mod is on the server.
-- **Configurable**: Easily adjust settings (if applicable).
+- **Configurable**
 
 ## How to Use
 
@@ -23,7 +23,7 @@
 The mod generates a configuration file at `config/spawner-pickaxe.json`. You can customize the following options:
 
 - `recipeIngredient`: The item ID required to craft the Spawner Pickaxe (Default: `minecraft:dragon_egg`).
-- `pickaxeDamage`: The amount of durability damage the Golden Pickaxe takes when crafted into a Spawner Pickaxe (Default: `16`).
+- `pickaxeDamage`: The amount of durability damage the Golden Pickaxe has when crafted into a Spawner Pickaxe (Default: `16`).
 
 ---
 

@@ -3,7 +3,7 @@
 	"id": "spawner-pickaxe",
 	"version": "${version}",
 	"name": "Spawner pickaxe",
-	"description": "The ultimate survival utility! Harvest and relocate spawners using a specialized Golden Pickaxe with Silk Touch X, preserving all mob data for perfect farm setups.",
+	"description": " Harvest and relocate spawners using a specialized Golden Pickaxe with Silk Touch X, preserving all mob data for perfect farm setups.",
 	"authors": [
 		"TinoMartino"
 	],
